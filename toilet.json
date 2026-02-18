@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Jewel Changi (L2)",
+    "latitude": 1.3602,
+    "longitude": 103.9898,
+    "description": "Premium Japanese washlets, very clean.",
+    "rating": 5
+  },
+  {
+    "name": "Takashimaya (B2)",
+    "latitude": 1.3024,
+    "longitude": 103.8351,
+    "description": "Integrated bidet system, high pressure.",
+    "rating": 5
+  },
+  {
+    "name": "Ion Orchard (L4)",
+    "latitude": 1.3040,
+    "longitude": 103.8320,
+    "description": "Luxury cubicles with full bidet controls.",
+    "rating": 4
+  }
+]
