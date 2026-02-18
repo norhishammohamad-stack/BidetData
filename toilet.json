@@ -1,23 +1,254 @@
 [
   {
-    "name": "Jewel Changi (L2)",
+    "name": "Jewel Changi (L1 to L5)",
     "latitude": 1.3602,
     "longitude": 103.9898,
-    "description": "Premium Japanese washlets, very clean.",
+    "description": "High-end facilities throughout. Almost all cubicles have integrated washlets.",
     "rating": 5
   },
   {
-    "name": "Takashimaya (B2)",
-    "latitude": 1.3024,
-    "longitude": 103.8351,
-    "description": "Integrated bidet system, high pressure.",
+    "name": "Changi Airport T1/T2/T3/T4",
+    "latitude": 1.3622,
+    "longitude": 103.9900,
+    "description": "World-class restrooms with reliable bidet sprays or integrated Japanese washlets.",
     "rating": 5
   },
   {
-    "name": "Ion Orchard (L4)",
-    "latitude": 1.3040,
-    "longitude": 103.8320,
-    "description": "Luxury cubicles with full bidet controls.",
+    "name": "ION Orchard (L4 & ION Sky)",
+    "latitude": 1.304,
+    "longitude": 103.832,
+    "description": "Premium mall. Higher floors feature ultra-clean, high-end bidet facilities.",
+    "rating": 5
+  },
+  {
+    "name": "The Shoppes at MBS",
+    "latitude": 1.2845,
+    "longitude": 103.859,
+    "description": "Extremely high standards. Many cubicles feature electronic washlets.",
+    "rating": 5
+  },
+  {
+    "name": "Marina Bay Sands (Hotel Tower 1)",
+    "latitude": 1.2828,
+    "longitude": 103.8595,
+    "description": "The gold standard. Features Japanese Toto washlets with automated seats.",
+    "rating": 5
+  },
+  {
+    "name": "Ngee Ann City (Takashimaya)",
+    "latitude": 1.3025,
+    "longitude": 103.8345,
+    "description": "The department store side features premium Japanese washlet seats.",
+    "rating": 5
+  },
+  {
+    "name": "Maxwell MRT (TEL)",
+    "latitude": 1.2805,
+    "longitude": 103.8435,
+    "description": "New TEL station. High-end integrated bidet sprays in every cubicle.",
+    "rating": 5
+  },
+  {
+    "name": "Orchard MRT (TEL)",
+    "latitude": 1.3045,
+    "longitude": 103.8325,
+    "description": "Superior to the older NSL side; modern, high-pressure bidet systems.",
+    "rating": 5
+  },
+  {
+    "name": "Dhoby Ghaut MRT (TEL)",
+    "latitude": 1.2985,
+    "longitude": 103.8455,
+    "description": "New TEL linkway toilets are very clean with modern bidets.",
+    "rating": 5
+  },
+  {
+    "name": "Bird Paradise (Mandai)",
+    "latitude": 1.4035,
+    "longitude": 103.7885,
+    "description": "Newest Mandai attraction. High-tech and exceptionally clean bidet facilities.",
+    "rating": 5
+  },
+  {
+    "name": "The Fullerton Hotel (B1)",
+    "latitude": 1.2862,
+    "longitude": 103.8529,
+    "description": "Publicly accessible via B1 underpass. Temperature-controlled sprays.",
+    "rating": 5
+  },
+  {
+    "name": "Capella Sentosa (Lobby)",
+    "latitude": 1.2497,
+    "longitude": 103.8245,
+    "description": "Ultra-premium automated washlets in the lobby common area.",
+    "rating": 5
+  },
+  {
+    "name": "VivoCity (All Levels)",
+    "latitude": 1.2645,
+    "longitude": 103.8225,
+    "description": "Consistent bidet presence in handicap and most common cubicles.",
     "rating": 4
+  },
+  {
+    "name": "Paragon Shopping Centre",
+    "latitude": 1.3038,
+    "longitude": 103.8358,
+    "description": "Consistently clean with high-quality bidet sprays in most cubicles.",
+    "rating": 5
+  },
+  {
+    "name": "Tan Tock Seng Hospital",
+    "latitude": 1.3215,
+    "longitude": 103.8465,
+    "description": "Most medical blocks feature hygienic bidet sprays in common toilets.",
+    "rating": 4
+  },
+  {
+    "name": "Mount Elizabeth (Orchard)",
+    "latitude": 1.3045,
+    "longitude": 103.8365,
+    "description": "Private hospital luxury. Clean, reliable bidet facilities.",
+    "rating": 5
+  },
+  {
+    "name": "NTU School of ADM",
+    "latitude": 1.3486,
+    "longitude": 103.683,
+    "description": "A student favorite. Toilets are modern and nearly all have bidets.",
+    "rating": 5
+  },
+  {
+    "name": "JEM (L4 Parent Room)",
+    "latitude": 1.3328,
+    "longitude": 103.7435,
+    "description": "Hidden gem. Features a premium Japanese washlet system.",
+    "rating": 5
+  },
+  {
+    "name": "IMM (L2 Handicap)",
+    "latitude": 1.3346,
+    "longitude": 103.747,
+    "description": "Reliable, high-pressure manual spray in the handicap cubicle.",
+    "rating": 4
+  },
+  {
+    "name": "Rivervale Community Club",
+    "latitude": 1.3915,
+    "longitude": 103.903,
+    "description": "Accessible bidet spray in the L1 restroom. Well-maintained.",
+    "rating": 4
+  },
+  {
+    "name": "Paya Lebar Quarter (PLQ)",
+    "latitude": 1.3175,
+    "longitude": 103.8925,
+    "description": "Modern office/mall hybrid. Very clean with consistent bidet sprays.",
+    "rating": 4
+  },
+  {
+    "name": "Waterway Point (B2)",
+    "latitude": 1.4065,
+    "longitude": 103.9025,
+    "description": "Basement 2 handicap and nursing rooms feature reliable bidets.",
+    "rating": 4
+  },
+  {
+    "name": "Northpoint City (New Wing)",
+    "latitude": 1.4295,
+    "longitude": 103.8365,
+    "description": "Clean bidet sprays available in handicap toilets on L2.",
+    "rating": 3
+  },
+  {
+    "name": "Hillion Mall (B2)",
+    "latitude": 1.3785,
+    "longitude": 103.7621,
+    "description": "Handicap toilet near the linkway to Bukit Panjang MRT.",
+    "rating": 3
+  },
+  {
+    "name": "National Library (L1)",
+    "latitude": 1.2975,
+    "longitude": 103.8545,
+    "description": "Publicly accessible with reliable, high-pressure bidet sprays.",
+    "rating": 3
+  },
+  {
+    "name": "Esplanade",
+    "latitude": 1.2895,
+    "longitude": 103.8555,
+    "description": "Premium cultural hub facilities. Very clean with reliable sprays.",
+    "rating": 4
+  },
+  {
+    "name": "Andaz Singapore (L25)",
+    "latitude": 1.3005,
+    "longitude": 103.8578,
+    "description": "Sky lobby toilets. Extremely modern with powerful bidet sprays.",
+    "rating": 5
+  },
+  {
+    "name": "PARKROYAL Pickering",
+    "latitude": 1.2858,
+    "longitude": 103.8475,
+    "description": "Eco-luxury restrooms with sleek, high-pressure bidet installations.",
+    "rating": 5
+  },
+  {
+    "name": "Hilton Orchard (L5)",
+    "latitude": 1.3018,
+    "longitude": 103.8362,
+    "description": "Lobby floor restrooms near Ginger.Lily. Brand new fixtures.",
+    "rating": 5
+  },
+  {
+    "name": "Oasia Hotel Downtown (L12)",
+    "latitude": 1.2765,
+    "longitude": 103.8445,
+    "description": "Skyline terrace restrooms. Quiet, clean, and bidet-equipped.",
+    "rating": 4
+  },
+  {
+    "name": "Jurong East Interchange",
+    "latitude": 1.3331,
+    "longitude": 103.7422,
+    "description": "Basic bidet spray in the handicap toilet. Functional for commuters.",
+    "rating": 2
+  },
+  {
+    "name": "West Coast Market Square",
+    "latitude": 1.3035,
+    "longitude": 103.7645,
+    "description": "Corner cubicle of the hawker center. High pressure but floor is often wet.",
+    "rating": 2
+  },
+  {
+    "name": "Shell Station (Tampines Ave 2)",
+    "latitude": 1.3505,
+    "longitude": 103.9525,
+    "description": "A reliable pitstop in the East. Handicap toilet has a functional spray.",
+    "rating": 3
+  },
+  {
+    "name": "Sengkang General Hospital",
+    "latitude": 1.3945,
+    "longitude": 103.8925,
+    "description": "Most handicap toilets and newer blocks have bidet sprays.",
+    "rating": 4
+  },
+  {
+    "name": "The Star Vista (L1)",
+    "latitude": 1.3068,
+    "longitude": 103.7884,
+    "description": "Restrooms near the taxi stand feature bidet sprays in handicap cubicles.",
+    "rating": 3
+  },
+  {
+    "name": "Marina Bay MRT (TEL)",
+    "latitude": 1.2765,
+    "longitude": 103.8545,
+    "description": "State-of-the-art station restrooms with full bidet coverage.",
+    "rating": 5
   }
 ]
