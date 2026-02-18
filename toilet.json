@@ -764,8 +764,6 @@
     "rating": 4,
     "category": "MRT"
   },
-
-  
   {
     "id": "sg_bidet_086",
     "name": "IMM Outlet Mall (L3)",
@@ -945,103 +943,326 @@
     "description": "Gas station handicap toilet with bidet spray.",
     "rating": 3,
     "category": "Other"
+  },
+  {
+    "id": "sg_bidet_106",
+    "name": "Changi Airport T3 (Basement 2)",
+    "latitude": 1.3556,
+    "longitude": 103.9870,
+    "description": "High-pressure bidet sprays near the Kopitiam food court.",
+    "rating": 5,
+    "category": "Mall"
+  },
+  {
+    "id": "sg_bidet_107",
+    "name": "Our Tampines Hub (Level 3)",
+    "latitude": 1.3531,
+    "longitude": 103.9402,
+    "description": "Near the regional library entrance. Very clean.",
+    "rating": 5,
+    "category": "Other"
+  },
+  {
+    "id": "sg_bidet_108",
+    "name": "Tampines MRT (DT32)",
+    "latitude": 1.3538,
+    "longitude": 103.9450,
+    "description": "Downtown Line toilets have bidets in handicap stalls.",
+    "rating": 4,
+    "category": "MRT"
+  },
+  {
+    "id": "sg_bidet_109",
+    "name": "Simei MRT (EW3)",
+    "latitude": 1.3432,
+    "longitude": 103.9533,
+    "description": "Public toilet at street level with bidet sprays.",
+    "rating": 3,
+    "category": "MRT"
+  },
+  {
+    "id": "sg_bidet_110",
+    "name": "Expo MRT (CG1/DT35)",
+    "latitude": 1.3344,
+    "longitude": 103.9619,
+    "description": "Best bidets are in the Downtown Line side (B1).",
+    "rating": 4,
+    "category": "MRT"
+  },
+  {
+    "id": "sg_bidet_111",
+    "name": "Changi City Point (L2)",
+    "latitude": 1.3338,
+    "longitude": 103.9620,
+    "description": "Available in male and female toilets near the sports shops.",
+    "rating": 4,
+    "category": "Mall"
+  },
+  {
+    "id": "sg_bidet_112",
+    "name": "Jewel Changi (L4)",
+    "latitude": 1.3602,
+    "longitude": 103.9898,
+    "description": "Fully electronic Japanese-style bidets.",
+    "rating": 5,
+    "category": "Mall"
+  },
+  {
+    "id": "sg_bidet_113",
+    "name": "Pasir Ris Town Park",
+    "latitude": 1.3725,
+    "longitude": 103.9495,
+    "description": "Near the fishing pond. Rustic but has bidet sprays.",
+    "rating": 3,
+    "category": "Park"
+  },
+  {
+    "id": "sg_bidet_114",
+    "name": "Loyang Point (L1)",
+    "latitude": 1.3688,
+    "longitude": 103.9618,
+    "description": "Reliable neighborhood mall toilets with bidet.",
+    "rating": 3,
+    "category": "Mall"
+  },
+  {
+    "id": "sg_bidet_115",
+    "name": "Downtown East (E!Avenue L2)",
+    "latitude": 1.3780,
+    "longitude": 103.9540,
+    "description": "Near the Wild Wild Wet entrance.",
+    "rating": 4,
+    "category": "Mall"
+  },
+  {
+    "id": "sg_bidet_116",
+    "name": "Bedok Interchange (Hawker Centre)",
+    "latitude": 1.3248,
+    "longitude": 103.9308,
+    "description": "Public toilet requires 20 cents, but includes bidet spray.",
+    "rating": 3,
+    "category": "Other"
+  },
+  {
+    "id": "sg_bidet_117",
+    "name": "Bedok Point (L3)",
+    "latitude": 1.3245,
+    "longitude": 103.9318,
+    "description": "Standard mall toilets with consistent pressure.",
+    "rating": 4,
+    "category": "Mall"
+  },
+  {
+    "id": "sg_bidet_118",
+    "name": "East Village (Simpang Bedok)",
+    "latitude": 1.3315,
+    "longitude": 103.9472,
+    "description": "Clean bidet sprays in a foodie-favourite mall.",
+    "rating": 4,
+    "category": "Mall"
+  },
+  {
+    "id": "sg_bidet_119",
+    "name": "Marine Parade Central (Food Centre)",
+    "latitude": 1.3025,
+    "longitude": 103.9072,
+    "description": "Accessible toilet has a functional bidet.",
+    "rating": 3,
+    "category": "Other"
+  },
+  {
+    "id": "sg_bidet_120",
+    "name": "Parkway Parade (L3)",
+    "latitude": 1.3015,
+    "longitude": 103.9052,
+    "description": "Near the medical center wing.",
+    "rating": 4, "category": "Mall"
+  },
+  {
+    "id": "sg_bidet_121",
+    "name": "I12 Katong (B1)",
+    "latitude": 1.3051,
+    "longitude": 103.9051,
+    "description": "Modern and very clean bidet facilities.",
+    "rating": 5, "category": "Mall"
+  },
+  {
+    "id": "sg_bidet_122",
+    "name": "SingPost Centre (L1)",
+    "latitude": 1.3191,
+    "longitude": 103.8943,
+    "description": "Near the Paya Lebar MRT link.",
+    "rating": 4, "category": "Mall"
+  },
+  {
+    "id": "sg_bidet_123",
+    "name": "Kembangan MRT (EW6)",
+    "latitude": 1.3210,
+    "longitude": 103.9128,
+    "description": "Public toilet at street level (beside AXS machine).",
+    "rating": 3, "category": "MRT"
+  },
+  {
+    "id": "sg_bidet_124",
+    "name": "Eunos MRT (EW7)",
+    "latitude": 1.3197,
+    "longitude": 103.9031,
+    "description": "Accessible toilet is equipped with bidet spray.",
+    "rating": 3, "category": "MRT"
+  },
+  {
+    "id": "sg_bidet_125",
+    "name": "Geylang East Library",
+    "latitude": 1.3175,
+    "longitude": 103.8885,
+    "description": "Quiet, clean toilets with bidets on Level 2.",
+    "rating": 4, "category": "Other"
+  },
+  {
+    "id": "sg_bidet_126",
+    "name": "Kallang Wave Mall (L1)",
+    "latitude": 1.3038,
+    "longitude": 103.8770,
+    "description": "Near the rock climbing wall.",
+    "rating": 4, "category": "Mall"
+  },
+  {
+    "id": "sg_bidet_127",
+    "name": "Stadium MRT (CC6)",
+    "latitude": 1.3028,
+    "longitude": 103.8753,
+    "description": "Circle Line toilets generally have bidet sprays.",
+    "rating": 4, "category": "MRT"
+  },
+  {
+    "id": "sg_bidet_128",
+    "name": "Mountbatten MRT (CC7)",
+    "latitude": 1.3063,
+    "longitude": 103.8826,
+    "description": "Available in the accessible stall.",
+    "rating": 3, "category": "MRT"
+  },
+  {
+    "id": "sg_bidet_129",
+    "name": "Katong V (L2)",
+    "latitude": 1.3045,
+    "longitude": 103.9018,
+    "description": "Clean and quiet bidet facilities.",
+    "rating": 5, "category": "Mall"
+  },
+  {
+    "id": "sg_bidet_130",
+    "name": "Aljunied MRT (EW9)",
+    "latitude": 1.3164,
+    "longitude": 103.8829,
+    "description": "Standard NSEWL station toilet.",
+    "rating": 3, "category": "MRT"
+  },
+  {
+    "id": "sg_bidet_131",
+    "name": "Tai Seng MRT (CC11)",
+    "latitude": 1.3355,
+    "longitude": 103.8881,
+    "description": "Circle Line toilets, usually clean.",
+    "rating": 4, "category": "MRT"
+  },
+  {
+    "id": "sg_bidet_132",
+    "name": "Grantral Mall (MacPherson)",
+    "latitude": 1.3362,
+    "longitude": 103.8875,
+    "description": "Clean bidet sprays in male and female stalls.",
+    "rating": 4, "category": "Mall"
+  },
+  {
+    "id": "sg_bidet_133",
+    "name": "Pottong Pasir MRT (NE10)",
+    "latitude": 1.3314,
+    "longitude": 103.8691,
+    "description": "Available at concourse level toilets.",
+    "rating": 3, "category": "MRT"
+  },
+  {
+    "id": "sg_bidet_134",
+    "name": "The Poiz Centre (L1)",
+    "latitude": 1.3325,
+    "longitude": 103.8688,
+    "description": "New mall with excellent bidet availability.",
+    "rating": 5, "category": "Mall"
+  },
+  {
+    "id": "sg_bidet_135",
+    "name": "Boon Keng MRT (NE9)",
+    "latitude": 1.3194,
+    "longitude": 103.8617,
+    "description": "Accessible toilet contains a bidet spray.",
+    "rating": 3, "category": "MRT"
+  },
+  {
+    "id": "sg_bidet_136",
+    "name": "Bendemeer MRT (DT23)",
+    "latitude": 1.3137,
+    "longitude": 103.8631,
+    "description": "Downtown Line station toilet, well maintained.",
+    "rating": 4, "category": "MRT"
+  },
+  {
+    "id": "sg_bidet_137",
+    "name": "Aperia Mall (L1)",
+    "latitude": 1.3105,
+    "longitude": 103.8641,
+    "description": "Near the supermarket entrance.",
+    "rating": 4, "category": "Mall"
+  },
+  {
+    "id": "sg_bidet_138",
+    "name": "Jalan Besar MRT (DT22)",
+    "latitude": 1.3052,
+    "longitude": 103.8553,
+    "description": "Clean bidet available in concourse level.",
+    "rating": 4, "category": "MRT"
+  },
+  {
+    "id": "sg_bidet_139",
+    "name": "Golden Mile Tower (L1)",
+    "latitude": 1.3015,
+    "longitude": 103.8615,
+    "description": "Public toilet with bidet spray near the main atrium.",
+    "rating": 3, "category": "Other"
+  },
+  {
+    "id": "sg_bidet_140",
+    "name": "South Beach Tower (B1)",
+    "latitude": 1.2945,
+    "longitude": 103.8548,
+    "description": "Extremely clean office-standard toilets and bidets.",
+    "rating": 5, "category": "Other"
+  },
+  {
+    "id": "sg_bidet_141",
+    "name": "Guoco Midtown (L1)",
+    "latitude": 1.2965,
+    "longitude": 103.8572,
+    "description": "New development with premium restroom bidet systems.",
+    "rating": 5,
+    "category": "Other"
+  },
+  {
+    "id": "sg_bidet_142",
+    "name": "Rochor MRT (DT13)",
+    "latitude": 1.3037,
+    "longitude": 103.8526,
+    "description": "DTL station, accessible toilets have bidets.",
+    "rating": 4,
+    "category": "MRT"
+  },
+  {
+    "id": "sg_bidet_143",
+    "name": "Albert Centre (Food Centre)",
+    "latitude": 1.3005,
+    "longitude": 103.8532,
+    "description": "Standard public toilets with functional bidets.",
+    "rating": 3,
+    "category": "Other"
   }
-
-  
-  { "id": "sg_bidet_106", "name": "Changi Airport T3 (Basement 2)", "latitude": 1.3556, "longitude": 103.9870, "description": "High-pressure bidet sprays near the Kopitiam food court.", "rating": 5, "category": "Mall" },
-  { "id": "sg_bidet_107", "name": "Our Tampines Hub (Level 3)", "latitude": 1.3531, "longitude": 103.9402, "description": "Near the regional library entrance. Very clean.", "rating": 5, "category": "Other" },
-  { "id": "sg_bidet_108", "name": "Tampines MRT (DT32)", "latitude": 1.3538, "longitude": 103.9450, "description": "Downtown Line toilets have bidets in handicap stalls.", "rating": 4, "category": "MRT" },
-  { "id": "sg_bidet_109", "name": "Simei MRT (EW3)", "latitude": 1.3432, "longitude": 103.9533, "description": "Public toilet at street level with bidet sprays.", "rating": 3, "category": "MRT" },
-  { "id": "sg_bidet_110", "name": "Expo MRT (CG1/DT35)", "latitude": 1.3344, "longitude": 103.9619, "description": "Best bidets are in the Downtown Line side (B1).", "rating": 4, "category": "MRT" },
-  { "id": "sg_bidet_111", "name": "Changi City Point (L2)", "latitude": 1.3338, "longitude": 103.9620, "description": "Available in male and female toilets near the sports shops.", "rating": 4, "category": "Mall" },
-  { "id": "sg_bidet_112", "name": "Jewel Changi (L4)", "latitude": 1.3602, "longitude": 103.9898, "description": "Fully electronic Japanese-style bidets.", "rating": 5, "category": "Mall" },
-  { "id": "sg_bidet_113", "name": "Pasir Ris Town Park", "latitude": 1.3725, "longitude": 103.9495, "description": "Near the fishing pond. Rustic but has bidet sprays.", "rating": 3, "category": "Park" },
-  { "id": "sg_bidet_114", "name": "Loyang Point (L1)", "latitude": 1.3688, "longitude": 103.9618, "description": "Reliable neighborhood mall toilets with bidet.", "rating": 3, "category": "Mall" },
-  { "id": "sg_bidet_115", "name": "Downtown East (E!Avenue L2)", "latitude": 1.3780, "longitude": 103.9540, "description": "Near the Wild Wild Wet entrance.", "rating": 4, "category": "Mall" },
-  { "id": "sg_bidet_116", "name": "Bedok Interchange (Hawker Centre)", "latitude": 1.3248, "longitude": 103.9308, "description": "Public toilet requires 20 cents, but includes bidet spray.", "rating": 3, "category": "Other" },
-  { "id": "sg_bidet_117", "name": "Bedok Point (L3)", "latitude": 1.3245, "longitude": 103.9318, "description": "Standard mall toilets with consistent pressure.", "rating": 4, "category": "Mall" },
-  { "id": "sg_bidet_118", "name": "East Village (Simpang Bedok)", "latitude": 1.3315, "longitude": 103.9472, "description": "Clean bidet sprays in a foodie-favourite mall.", "rating": 4, "category": "Mall" },
-  { "id": "sg_bidet_119", "name": "Marine Parade Central (Food Centre)", "latitude": 1.3025, "longitude": 103.9072, "description": "Accessible toilet has a functional bidet.", "rating": 3, "category": "Other" },
-  { "id": "sg_bidet_120", "name": "Parkway Parade (L3)", "latitude": 1.3015, "longitude": 103.9052, "description": "Near the medical center wing.", "rating": 4, "category": "Mall" },
-  { "id": "sg_bidet_121", "name": "I12 Katong (B1)", "latitude": 1.3051, "longitude": 103.9051, "description": "Modern and very clean bidet facilities.", "rating": 5, "category": "Mall" },
-  { "id": "sg_bidet_122", "name": "SingPost Centre (L1)", "latitude": 1.3191, "longitude": 103.8943, "description": "Near the Paya Lebar MRT link.", "rating": 4, "category": "Mall" },
-  { "id": "sg_bidet_123", "name": "Kembangan MRT (EW6)", "latitude": 1.3210, "longitude": 103.9128, "description": "Public toilet at street level (beside AXS machine).", "rating": 3, "category": "MRT" },
-  { "id": "sg_bidet_124", "name": "Eunos MRT (EW7)", "latitude": 1.3197, "longitude": 103.9031, "description": "Accessible toilet is equipped with bidet spray.", "rating": 3, "category": "MRT" },
-  { "id": "sg_bidet_125", "name": "Geylang East Library", "latitude": 1.3175, "longitude": 103.8885, "description": "Quiet, clean toilets with bidets on Level 2.", "rating": 4, "category": "Other" },
-  { "id": "sg_bidet_126", "name": "Kallang Wave Mall (L1)", "latitude": 1.3038, "longitude": 103.8770, "description": "Near the rock climbing wall.", "rating": 4, "category": "Mall" },
-  { "id": "sg_bidet_127", "name": "Stadium MRT (CC6)", "latitude": 1.3028, "longitude": 103.8753, "description": "Circle Line toilets generally have bidet sprays.", "rating": 4, "category": "MRT" },
-  { "id": "sg_bidet_128", "name": "Mountbatten MRT (CC7)", "latitude": 1.3063, "longitude": 103.8826, "description": "Available in the accessible stall.", "rating": 3, "category": "MRT" },
-  { "id": "sg_bidet_129", "name": "Katong V (L2)", "latitude": 1.3045, "longitude": 103.9018, "description": "Clean and quiet bidet facilities.", "rating": 5, "category": "Mall" },
-  { "id": "sg_bidet_130", "name": "Aljunied MRT (EW9)", "latitude": 1.3164, "longitude": 103.8829, "description": "Standard NSEWL station toilet.", "rating": 3, "category": "MRT" },
-  { "id": "sg_bidet_131", "name": "Tai Seng MRT (CC11)", "latitude": 1.3355, "longitude": 103.8881, "description": "Circle Line toilets, usually clean.", "rating": 4, "category": "MRT" },
-  { "id": "sg_bidet_132", "name": "Grantral Mall (MacPherson)", "latitude": 1.3362, "longitude": 103.8875, "description": "Clean bidet sprays in male and female stalls.", "rating": 4, "category": "Mall" },
-  { "id": "sg_bidet_133", "name": "Pottong Pasir MRT (NE10)", "latitude": 1.3314, "longitude": 103.8691, "description": "Available at concourse level toilets.", "rating": 3, "category": "MRT" },
-  { "id": "sg_bidet_134", "name": "The Poiz Centre (L1)", "latitude": 1.3325, "longitude": 103.8688, "description": "New mall with excellent bidet availability.", "rating": 5, "category": "Mall" },
-  { "id": "sg_bidet_135", "name": "Boon Keng MRT (NE9)", "latitude": 1.3194, "longitude": 103.8617, "description": "Accessible toilet contains a bidet spray.", "rating": 3, "category": "MRT" },
-  { "id": "sg_bidet_136", "name": "Bendemeer MRT (DT23)", "latitude": 1.3137, "longitude": 103.8631, "description": "Downtown Line station toilet, well maintained.", "rating": 4, "category": "MRT" },
-  { "id": "sg_bidet_137", "name": "Aperia Mall (L1)", "latitude": 1.3105, "longitude": 103.8641, "description": "Near the supermarket entrance.", "rating": 4, "category": "Mall" },
-  { "id": "sg_bidet_138", "name": "Jalan Besar MRT (DT22)", "latitude": 1.3052, "longitude": 103.8553, "description": "Clean bidet available in concourse level.", "rating": 4, "category": "MRT" },
-  { "id": "sg_bidet_139", "name": "Golden Mile Tower (L1)", "latitude": 1.3015, "longitude": 103.8615, "description": "Public toilet with bidet spray near the main atrium.", "rating": 3, "category": "Other" },
-  { "id": "sg_bidet_140", "name": "South Beach Tower (B1)", "latitude": 1.2945, "longitude": 103.8548, "description": "Extremely clean office-standard toilets and bidets.", "rating": 5, "category": "Other" },
-  { "id": "sg_bidet_141", "name": "Guoco Midtown (L1)", "latitude": 1.2965, "longitude": 103.8572, "description": "New development with premium restroom bidet systems.", "rating": 5, "category": "Other" },
-  { "id": "sg_bidet_142", "name": "Rochor MRT (DT13)", "latitude": 1.3037, "longitude": 103.8526, "description": "DTL station, accessible toilets have bidets.", "rating": 4, "category": "MRT" },
-  { "id": "sg_bidet_143", "name": "Albert Centre (Food Centre)", "latitude": 1.3005, "longitude": 103.8542, "description": "Renovated public toilet with spray bidets.", "rating": 3, "category": "Other" },
-  { "id": "sg_bidet_144", "name": "Sim Lim Square (L3)", "latitude": 1.3028, "longitude": 103.8529, "description": "Reliable bidet spray for shoppers.", "rating": 3, "category": "Mall" },
-  { "id": "sg_bidet_145", "name": "National Library (L1)", "latitude": 1.2974, "longitude": 103.8543, "description": "Spacious toilets with clean bidets.", "rating": 5, "category": "Other" },
-  { "id": "sg_bidet_146", "name": "Bras Basah MRT (CC2)", "latitude": 1.2969, "longitude": 103.8507, "description": "Accessible toilet contains a bidet spray.", "rating": 4, "category": "MRT" },
-  { "id": "sg_bidet_147", "name": "SMU School of Economics (B1)", "latitude": 1.2979, "longitude": 103.8510, "description": "Handicap toilet has bidet spray.", "rating": 4, "category": "Other" },
-  { "id": "sg_bidet_148", "name": "CHIJMES (L1)", "latitude": 1.2961, "longitude": 103.8516, "description": "Toilets near the courtyard restaurants.", "rating": 5, "category": "Mall" },
-  { "id": "sg_bidet_149", "name": "Capitol Piazza (B1)", "latitude": 1.2936, "longitude": 103.8513, "description": "Clean, designer toilets with electronic bidets.", "rating": 5, "category": "Mall" },
-  { "id": "sg_bidet_150", "name": "Clarke Quay Central (L2)", "latitude": 1.2891, "longitude": 103.8465, "description": "Near the Japanese restaurants, clean bidet available.", "rating": 4, "category": "Mall" },
-  { "id": "sg_bidet_151", "name": "Fort Canning MRT (DT20)", "latitude": 1.2915, "longitude": 103.8443, "description": "Public toilet with reliable bidet spray.", "rating": 4, "category": "MRT" },
-  { "id": "sg_bidet_152", "name": "Liang Court (Now Canninghill Piers Site)", "latitude": 1.2914, "longitude": 103.8455, "description": "Note: Check temporary site toilets for bidet availability.", "rating": 2, "category": "Other" },
-  { "id": "sg_bidet_153", "name": "UE Square (L1)", "latitude": 1.2925, "longitude": 103.8428, "description": "Clean bidet sprays in the commercial wing.", "rating": 4, "category": "Mall" },
-  { "id": "sg_bidet_154", "name": "Robertson Walk (L1)", "latitude": 1.2918, "longitude": 103.8415, "description": "Public toilets with bidet spray.", "rating": 4, "category": "Mall" },
-  { "id": "sg_bidet_155", "name": "Great World MRT (TE15)", "latitude": 1.2938, "longitude": 103.8328, "description": "Brand new TE-line toilets, exceptionally clean.", "rating": 5, "category": "MRT" },
-  { "id": "sg_bidet_156", "name": "Havelock MRT (TE16)", "latitude": 1.2885, "longitude": 103.8338, "description": "Accessible toilet features a bidet spray.", "rating": 5, "category": "MRT" },
-  { "id": "sg_bidet_157", "name": "Kim Seng Community Centre", "latitude": 1.2905, "longitude": 103.8315, "description": "Public community toilets with bidets.", "rating": 3, "category": "Other" },
-  { "id": "sg_bidet_158", "name": "Tiong Bahru Food Centre", "latitude": 1.2852, "longitude": 103.8322, "description": "Public toilet requires payment but includes bidet.", "rating": 3, "category": "Other" },
-  { "id": "sg_bidet_159", "name": "Valley Point (L1)", "latitude": 1.2928, "longitude": 103.8268, "description": "Well-maintained neighborhood mall with bidets.", "rating": 4, "category": "Mall" },
-  { "id": "sg_bidet_160", "name": "Redhill MRT (EW18)", "latitude": 1.2897, "longitude": 103.8168, "description": "Handicap toilet has a bidet spray.", "rating": 3, "category": "MRT" },
-  { "id": "sg_bidet_161", "name": "Queensway Shopping Centre (L2)", "latitude": 1.2878, "longitude": 103.8035, "description": "Public toilets in the sports mall wing.", "rating": 3, "category": "Mall" },
-  { "id": "sg_bidet_162", "name": "Anchorpoint (B1)", "latitude": 1.2882, "longitude": 103.8055, "description": "Clean mall toilets with bidet sprays.", "rating": 4, "category": "Mall" },
-  { "id": "sg_bidet_163", "name": "IKEA Alexandra (L1)", "latitude": 1.2891, "longitude": 103.8062, "description": "Reliable bidet spray available in restrooms.", "rating": 4, "category": "Mall" },
-  { "id": "sg_bidet_164", "name": "Alexandra Hospital (A&E)", "latitude": 1.2868, "longitude": 103.8015, "description": "Public hospital toilets with bidets.", "rating": 4, "category": "Other" },
-  { "id": "sg_bidet_165", "name": "Queenstown MRT (EW19)", "latitude": 1.2946, "longitude": 103.8061, "description": "Accessible toilet with bidet spray.", "rating": 3, "category": "MRT" },
-  { "id": "sg_bidet_166", "name": "Commonwealth MRT (EW20)", "latitude": 1.3025, "longitude": 103.7983, "description": "Standard station toilet setup.", "rating": 3, "category": "MRT" },
-  { "id": "sg_bidet_167", "name": "One Raffles Quay (B1)", "latitude": 1.2811, "longitude": 103.8519, "description": "Premium office-grade restrooms with bidets.", "rating": 5, "category": "Other" },
-  { "id": "sg_bidet_168", "name": "Asia Square Tower 1 (L2)", "latitude": 1.2785, "longitude": 103.8505, "description": "Extremely clean bidets near the food court.", "rating": 5, "category": "Other" },
-  { "id": "sg_bidet_169", "name": "Telok Ayer MRT (DT18)", "latitude": 1.2821, "longitude": 103.8485, "description": "Public toilets with bidet spray.", "rating": 4, "category": "MRT" },
-  { "id": "sg_bidet_170", "name": "Lau Pa Sat", "latitude": 1.2807, "longitude": 103.8504, "description": "Public bidet sprays in the central restroom wing.", "rating": 4, "category": "Other" },
-  { "id": "sg_bidet_171", "name": "Shenton Way MRT (TE19)", "latitude": 1.2778, "longitude": 103.8508, "description": "New TEL station, premium bidet facilities.", "rating": 5, "category": "MRT" },
-  { "id": "sg_bidet_172", "name": "Maxwell Food Centre", "latitude": 1.2805, "longitude": 103.8448, "description": "Renovated public toilets with bidets.", "rating": 3, "category": "Other" },
-  { "id": "sg_bidet_173", "name": "Amoy Street Food Centre", "latitude": 1.2795, "longitude": 103.8475, "description": "Accessible toilet contains bidet spray.", "rating": 3, "category": "Other" },
-  { "id": "sg_bidet_174", "name": "Tanjong Pagar MRT (EW15)", "latitude": 1.2764, "longitude": 103.8468, "description": "Handicap toilet has a functional bidet.", "rating": 3, "category": "MRT" },
-  { "id": "sg_bidet_175", "name": "Guoco Tower (B2)", "latitude": 1.2768, "longitude": 103.8461, "description": "Premium mall/office toilets with bidets.", "rating": 5, "category": "Mall" },
-  { "id": "sg_bidet_176", "name": "100AM Mall (L3)", "latitude": 1.2751, "longitude": 103.8436, "description": "Clean bidet sprays available for shoppers.", "rating": 4, "category": "Mall" },
-  { "id": "sg_bidet_177", "name": "Icon Village (L1)", "latitude": 1.2745, "longitude": 103.8450, "description": "Accessible toilet with bidet spray.", "rating": 4, "category": "Mall" },
-  { "id": "sg_bidet_178", "name": "Cantonment Police HQ", "latitude": 1.2755, "longitude": 103.8395, "description": "Public restrooms in the lobby area have bidets.", "rating": 4, "category": "Other" },
-  { "id": "sg_bidet_179", "name": "Everton Park (Block 6)", "latitude": 1.2775, "longitude": 103.8385, "description": "Coffee-shop toilets with bidet sprays.", "rating": 3, "category": "Other" },
-  { "id": "sg_bidet_180", "name": "Pearl's Hill City Park", "latitude": 1.2855, "longitude": 103.8405, "description": "Park toilet with functional spray bidet.", "rating": 3, "category": "Park" },
-  { "id": "sg_bidet_181", "name": "People's Park Complex (L3)", "latitude": 1.2845, "longitude": 103.8425, "description": "Rustic toilets but with functional bidet sprays.", "rating": 3, "category": "Mall" },
-  { "id": "sg_bidet_182", "name": "Upper Cross St Hawker Centre", "latitude": 1.2852, "longitude": 103.8435, "description": "Standard public toilets with bidets.", "rating": 3, "category": "Other" },
-  { "id": "sg_bidet_183", "name": "Cross Street Exchange (L1)", "latitude": 1.2835, "longitude": 103.8475, "description": "Clean office-grade toilets with bidets.", "rating": 5, "category": "Other" },
-  { "id": "sg_bidet_184", "name": "Hong Lim Park (Public Restrooms)", "latitude": 1.2865, "longitude": 103.8465, "description": "Clean park toilets with bidet sprays.", "rating": 4, "category": "Park" },
-  { "id": "sg_bidet_185", "name": "Pickering Operations Centre", "latitude": 1.2862, "longitude": 103.8475, "description": "Accessible toilet contains a bidet spray.", "rating": 4, "category": "Other" },
-  { "id": "sg_bidet_186", "name": "Far East Square", "latitude": 1.2838, "longitude": 103.8485, "description": "Toilets in the dining area have bidets.", "rating": 4, "category": "Other" },
-  { "id": "sg_bidet_187", "name": "Great Eastern Centre (L1)", "latitude": 1.2842, "longitude": 103.8492, "description": "Clean office toilets with bidet sprays.", "rating": 5, "category": "Other" },
-  { "id": "sg_bidet_188", "name": "OCBC Centre (B1)", "latitude": 1.2855, "longitude": 103.8495, "description": "Accessible toilet with bidet spray.", "rating": 4, "category": "Other" },
-  { "id": "sg_bidet_189", "name": "UOB Plaza 1 (B1)", "latitude": 1.2858, "longitude": 103.8502, "description": "Public restrooms with bidet facilities.", "rating": 5, "category": "Other" },
-  { "id": "sg_bidet_190", "name": "One Fullerton (L1)", "latitude": 1.2862, "longitude": 103.8542, "description": "Premium restrooms along the bay area.", "rating": 5, "category": "Other" },
-  { "id": "sg_bidet_191", "name": "Fullerton Waterboat House", "latitude": 1.2858, "longitude": 103.8538, "description": "Clean, designer toilets with bidets.", "rating": 5, "category": "Other" },
-  { "id": "sg_bidet_192", "name": "Collyer Quay Centre (L2)", "latitude": 1.2838, "longitude": 103.8525, "description": "Near the bridge to Clifford Pier.", "rating": 4, "category": "Other" },
-  { "id": "sg_bidet_193", "name": "The Arcade (L2)", "latitude": 1.2835, "longitude": 103.8521, "description": "Reliable bidet sprays in the money changer building.", "rating": 3, "category": "Other" },
-  { "id": "sg_bidet_194", "name": "Ocean Financial Centre (B1)", "latitude": 1.2831, "longitude": 103.8528, "description": "High-standard bidet sprays.", "rating": 5, "category": "Other" },
-  { "id": "sg_bidet_195", "name": "Republic Plaza (L2)", "latitude": 1.2825, "longitude": 103.8515, "description": "Extremely clean bidets for public use.", "rating": 5, "category": "Other" },
-  { "id": "sg_bidet_196", "name": "CapitaSpring (L2)", "latitude": 1.2845, "longitude": 103.8505, "description": "Modern smart-toilets with electronic bidets.", "rating": 5, "category": "Other" },
-  { "id": "sg_bidet_197", "name": "Singapore River Cruise (Clarke Quay)", "latitude": 1.2905, "longitude": 103.8465, "description": "Public toilets at the jetty have bidets.", "rating": 3, "category": "Other" },
-  { "id": "sg_bidet_198", "name": "The Central Mall (Level 4)", "latitude": 1.2895, "longitude": 103.8468, "description": "Clean bidet sprays near the office tower link.", "rating": 4, "category": "Mall" },
-  { "id": "sg_bidet_199", "name": "Liang Court (Temporary Replacement)", "latitude": 1.2915, "longitude": 103.8458, "description": "Public toilet near the temporary site entrance.", "rating": 3, "category": "Other" },
-  { "id": "sg_bidet_200", "name": "Merchant Court Hotel (Public Restrooms)", "latitude": 1.2898, "longitude": 103.8455, "description": "Five-star standard bidet facilities.", "rating": 5, "category": "Other" },
-  { "id": "sg_bidet_201", "name": "Esplanade Park (Public Restrooms)", "latitude": 1.2895, "longitude": 103.8535, "description": "Public park toilets with reliable bidet sprays.", "rating": 4, "category": "Park" }
 ]
